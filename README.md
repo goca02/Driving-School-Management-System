@@ -55,6 +55,17 @@ The repository contains:
 * Database schema
 * Source code
 
+## Setup Instructions
+
+1. Start MySQL (XAMPP).
+2. Import the provided `autoskola.sql` file.
+3. Start AutoSkolaServer.
+4. Start AutoSkolaKlijent.
+5. Login using:
+
+Username: goca
+Password: goca
+
 ## Author
 
 Gordana Rakic
